@@ -8,8 +8,8 @@ body {
     height: 100vh;
     display: flex;
     align-items: center;
-     background-color: #023847;
-    /* justify-content: center; */
+     /* background-color: #023847; */
+    justify-content: center;
 }
 .container {
     margin-left: 60px;
